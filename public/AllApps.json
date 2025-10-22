@@ -1,0 +1,459 @@
+[
+  {
+    "image": "https://i.ibb.co.com/LD9qZfGQ/fit-track.webp",
+    "title": "TaskMaster Pro",
+    "companyName": "NextGen Apps Ltd",
+    "id": 1,
+    "description": "TaskMaster Pro is an advanced AI-powered to-do list and productivity application designed to revolutionize the way users organize their daily tasks, projects, and goals. With TaskMaster Pro, users can create complex project hierarchies, nested tasks, recurring schedules, and set priorities automatically using intelligent algorithms that adapt to personal habits. The app features a visually intuitive dashboard, offering detailed progress charts, reminders, and AI-generated suggestions to optimize task management efficiently. Users can collaborate with team members seamlessly, share project updates, assign roles, and monitor productivity in real-time, making it ideal for both personal use and professional team projects. TaskMaster Pro also includes integration with calendar services, email platforms, and popular productivity tools to ensure a unified workflow. The app’s AI engine tracks completion patterns, predicts deadlines, and recommends the best times for task execution. Additional features include customizable themes, gamification elements to boost motivation, secure cloud backup, offline support, and detailed analytics to identify productivity trends. It’s designed to reduce stress, enhance focus, and empower users to achieve more with less effort, making it a comprehensive solution for anyone serious about personal or professional efficiency. From managing complex schedules to tracking long-term goals, TaskMaster Pro offers an unmatched combination of intelligent automation, analytics, and user-friendly design to maximize efficiency and ensure that nothing is ever missed, providing users with a complete, organized, and stress-free task management experience. The app supports multi-platform synchronization, ensuring accessibility across devices while maintaining a secure and encrypted environment. With continuous AI-driven improvements, TaskMaster Pro adapts to changing user behavior, helping maintain consistent productivity, prioritize effectively, and balance work-life commitments in a smart and structured way.",
+    "size": 25,
+    "reviews": 5400,
+    "ratingAvg": 4.6,
+    "downloads": 12,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 480 },
+      { "name": "4 star", "count": 1020 },
+      { "name": "5 star", "count": 3540 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/M5D8wTwP/demo-app-4.webp",
+    "title": "FitTrack",
+    "companyName": "Healthify Co.",
+    "id": 2,
+    "description": "FitTrack is a holistic fitness tracking and health analytics app powered by advanced AI and machine learning algorithms that provide users with real-time feedback, personalized insights, and actionable recommendations for optimizing their physical health and overall lifestyle. The app tracks workouts, calories, heart rate, sleep quality, hydration levels, and step counts, offering detailed analytics and visual charts to monitor progress over weeks, months, and years. FitTrack leverages AI to generate custom workout plans, nutrition guidance, and predictive models for estimating future health improvements. Users can set personal goals, track milestones, and participate in gamified challenges with friends or the global community to boost motivation. Integration with wearable devices and smart home sensors ensures seamless data collection for highly accurate analytics. FitTrack also emphasizes mental wellness, offering guided meditations, stress reduction programs, and sleep improvement techniques to promote a holistic approach to health. The app provides reminders, motivational notifications, and in-depth trend analysis to help users maintain long-term consistency and make informed decisions about their fitness routines. With detailed reporting, predictive modeling, community engagement, and secure cloud storage, FitTrack empowers users to optimize their health, maintain a balanced lifestyle, and achieve measurable results. It also offers expert-backed tutorials, AI-driven alerts for anomalies in health data, and adaptive recommendations that evolve with user progress, ensuring a personalized and scientifically guided fitness experience tailored to each individual.",
+    "size": 40,
+    "reviews": 8750,
+    "ratingAvg": 4.8,
+    "downloads": 25,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 310 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 6030 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZHLUMKHta5TUUtkPmYoH7KOubkbzMYhYYug&s",
+    "title": "PhotoCraft Studio",
+    "companyName": "VisionSoft",
+    "id": 3,
+    "description": "PhotoCraft Studio is a comprehensive AI-powered photo editing and creative design app that caters to both professional photographers and hobbyists. It offers advanced features such as background removal, AI portrait enhancement, layer management, masking, blending, batch processing, color grading, and high-resolution RAW image support. Users can apply artistic filters, create custom presets, retouch images, adjust exposure, contrast, and saturation, and generate professional-quality visuals with ease. The app provides AI-guided recommendations for enhancing photos automatically, ensuring optimal visual appeal. Integrated tutorials and in-app guidance assist users in learning advanced techniques, while cloud storage support allows seamless backup and sharing. PhotoCraft Studio also includes tools for graphic design, such as collage creation, typography, and export-ready templates for social media, marketing, and personal projects. Collaborative features enable multiple users to work on projects simultaneously, share edits, and provide feedback in real-time. Its intuitive interface, combined with intelligent AI-driven functionalities, ensures users can create professional-standard visuals efficiently without extensive technical expertise. Whether for personal creativity, social media, marketing campaigns, or professional photography, PhotoCraft Studio offers a full suite of tools designed to elevate creative output, streamline workflow, and produce stunning, high-quality visuals consistently. Security, user experience, and performance are optimized to allow effortless creativity, providing a robust, feature-rich platform for all levels of creative professionals and enthusiasts.",
+    "size": 80,
+    "reviews": 21000,
+    "ratingAvg": 4.3,
+    "downloads": 50,
+    "ratings": [
+      { "name": "1 star", "count": 1050 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 3200 },
+      { "name": "4 star", "count": 6200 },
+      { "name": "5 star", "count": 9350 }
+    ]
+  },
+  {
+    "image": "https://static.vecteezy.com/system/resources/previews/019/540/542/non_2x/sync-cloud-logo-or-icon-sign-symbol-vector.jpg",
+    "title": "NoteSync Cloud",
+    "companyName": "BrightDesk Labs",
+    "id": 4,
+    "description": "NoteSync Cloud is a secure, AI-enhanced note-taking and document management platform that allows users to capture, organize, and access their notes and documents from any device seamlessly. The app supports rich text, images, tables, attachments, and audio notes while maintaining structured folders and tagging systems for efficient organization. With AI-powered summarization, automatic tagging, and smart search, users can quickly locate information, generate summaries, and identify key insights from lengthy documents. Collaborative features allow multiple users to edit, comment, and share notes in real-time, with granular access control to ensure security and privacy. NoteSync Cloud integrates with popular productivity tools, calendars, and cloud storage services to provide a unified workflow. AI-driven recommendations suggest related content, highlight important deadlines, and optimize task lists based on user activity patterns. The platform includes offline support, end-to-end encryption, customizable templates, and multi-language support, enabling users to work efficiently anywhere, anytime. Its intuitive interface and powerful AI capabilities make it ideal for students, professionals, teams, and enterprises seeking a robust, intelligent, and secure note-taking solution that enhances productivity, organization, and collaboration across multiple devices and platforms. Continuous cloud synchronization ensures all changes are reflected instantly across devices, providing a seamless, reliable, and consistent user experience.",
+    "size": 18,
+    "reviews": 6800,
+    "ratingAvg": 4.5,
+    "downloads": 16,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 950 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 3330 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/YBWkC4jH/demo-app-3.webp",
+    "title": "BudgetBuddy",
+    "companyName": "Finwise Solutions",
+    "id": 5,
+    "description": "BudgetBuddy is an AI-driven personal finance management app designed to help users optimize their spending, saving, and investment decisions. It provides detailed expense tracking, budgeting templates, and automated categorization of transactions to give users a clear overview of their finances. With predictive analytics, BudgetBuddy forecasts future expenses, recommends savings targets, and identifies opportunities to cut unnecessary costs. The app offers personalized financial insights, goal-setting features, and investment guidance tailored to user profiles. Users can link multiple bank accounts, credit cards, and digital wallets, enabling real-time monitoring of cash flow, income, and expenditures. BudgetBuddy includes intelligent alerts for bill payments, overdrafts, and budget breaches to prevent financial mismanagement. The AI engine analyzes spending habits, suggests optimized budgeting strategies, and highlights trends for better long-term planning. The platform also supports collaborative financial management for families or teams, allowing shared budgets and collective tracking of financial goals. Security is top priority, with end-to-end encryption, multi-factor authentication, and secure cloud backup. With its combination of AI intelligence, user-friendly interface, and detailed analytics, BudgetBuddy empowers users to make informed financial decisions, achieve savings targets, reduce debt, and cultivate sustainable financial habits over time.",
+    "size": 30,
+    "reviews": 3200,
+    "ratingAvg": 4.2,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 290 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1050 },
+      { "name": "5 star", "count": 1080 }
+    ]
+  },
+  
+  {
+    "image": "https://i.ibb.co.com/8g1ScGQC/demo-app-2.webp",
+    "title": "LangEase",
+    "companyName": "PolyTech Global",
+    "id": 6,
+    "description": "LangEase is an advanced AI-powered language learning platform designed to help users learn new languages effectively, efficiently, and enjoyably. The app leverages cutting-edge speech recognition, natural language processing, and AI-driven personalized curricula to adapt lessons based on each user’s proficiency, learning style, and progress. LangEase covers reading, writing, listening, and speaking skills, providing real-time pronunciation feedback, grammar correction, and contextual usage examples. Users can engage in interactive exercises, quizzes, and conversational simulations with AI chatbots, ensuring practical usage and reinforcement of learned concepts. The app also includes gamified challenges, streak tracking, and reward systems to motivate consistent learning. LangEase supports multiple languages, including commonly spoken and less widely taught languages, and offers cultural insights, idiomatic expressions, and authentic media content for immersive learning experiences. Offline mode ensures lessons can be practiced anywhere, while progress is synced across multiple devices. The AI engine continuously analyzes performance metrics to suggest adaptive learning paths, identify weaknesses, and provide targeted exercises. LangEase integrates with social features, allowing learners to practice with friends, join community challenges, and share achievements. With comprehensive progress tracking, detailed analytics, and personalized recommendations, LangEase empowers users to master new languages at their own pace while maintaining engagement and motivation. It combines scientific learning methods, advanced AI technology, and intuitive user interfaces to provide a complete, effective, and immersive language acquisition experience for learners of all ages and levels.",
+    "size": 55,
+    "reviews": 9500,
+    "ratingAvg": 4.7,
+    "downloads": 31,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 430 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 1700 },
+      { "name": "5 star", "count": 6220 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/whVfvgb3/demo-app-1.webp",
+    "title": "TuneFlow",
+    "companyName": "MelodyWorks",
+    "id": 7,
+    "description": "TuneFlow is a sophisticated music streaming, creation, and management platform that combines AI-assisted recommendations, personalized playlists, and powerful tools for music enthusiasts and professional creators. The app analyzes listening habits, mood, and preferences to deliver curated playlists, discover new artists, and suggest tracks that perfectly match user tastes. TuneFlow includes features for audio editing, remixing, and creating custom tracks with professional-grade tools and AI-assisted enhancements. Users can collaborate on musical projects in real-time, share compositions, and participate in global challenges to showcase talent. The app supports high-fidelity audio playback, offline listening, and integration with multiple devices and platforms for seamless music experiences. With built-in analytics, TuneFlow provides insights on listening trends, engagement, and user interaction, helping creators optimize content. Its AI engine can generate music recommendations, identify similar tracks, and even compose original music based on user input and preferences. TuneFlow also emphasizes social sharing, allowing users to follow friends, interact in communities, and discover trending music worldwide. Security, cloud backup, and data privacy are prioritized, ensuring that user content and preferences are protected. By combining intelligent recommendations, creative tools, and collaborative features, TuneFlow empowers users to explore, create, and share music in innovative ways while enhancing the listening and creation experience across all genres.",
+    "size": 60,
+    "reviews": 28000,
+    "ratingAvg": 4.4,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 1800 },
+      { "name": "2 star", "count": 2100 },
+      { "name": "3 star", "count": 4200 },
+      { "name": "4 star", "count": 8100 },
+      { "name": "5 star", "count": 11800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/WNjwDNsf/8.png",
+    "title": "TravelEase",
+    "companyName": "SkyLink Innovations",
+    "id": 8,
+    "description": "TravelEase is a comprehensive travel planning, booking, and itinerary management app that leverages AI technology to provide personalized travel recommendations, optimize trip planning, and streamline user experiences from start to finish. Users can discover destinations based on preferences, book flights, hotels, and activities, and organize itineraries with real-time updates, alerts, and AI-assisted scheduling. TravelEase includes features for travel budgeting, route optimization, local transport recommendations, and personalized activity suggestions based on user interests. The app integrates with maps, local guides, weather forecasts, and language translation tools to provide an immersive and stress-free travel experience. Its AI engine analyzes travel patterns, preferences, and historical data to deliver intelligent suggestions, anticipate potential delays, and maximize travel efficiency. Users can collaborate with friends and family to plan group trips, share itineraries, and coordinate activities seamlessly. TravelEase also supports offline access to itineraries, tickets, and guides, ensuring users are never left stranded. The app emphasizes convenience, security, and personalization, offering real-time alerts for flight changes, local events, and emergency services. TravelEase combines AI-driven insights, seamless integration, and a user-friendly interface to empower travelers to make informed decisions, explore new destinations confidently, and enjoy a fully optimized and memorable travel experience tailored to their individual preferences.",
+    "size": 42,
+    "reviews": 15000,
+    "ratingAvg": 4.6,
+    "downloads": 45,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 7600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Jj6FHzny/9.jpg",
+    "title": "MindSpace",
+    "companyName": "CalmTech Studio",
+    "id": 9,
+    "description": "MindSpace is a holistic mindfulness, meditation, and mental wellness application designed to help users achieve inner peace, reduce stress, and improve cognitive and emotional well-being through AI-guided exercises, mood tracking, and adaptive routines. The app offers meditation sessions, breathing exercises, sleep aids, and guided practices tailored to individual stress levels, mental states, and lifestyle patterns. MindSpace leverages AI algorithms to personalize session durations, suggest suitable techniques, and track improvements over time using detailed analytics and reports. Users can journal thoughts, track mood fluctuations, set goals for emotional regulation, and engage in mindful challenges to build consistent habits. The app integrates with wearable devices to monitor heart rate, sleep quality, and physiological responses to meditation practices, providing data-driven insights into progress and effectiveness. MindSpace includes social features for community support, sharing achievements, and participating in group challenges. Offline accessibility, secure cloud backups, and customizable themes ensure users can practice anywhere while maintaining privacy. AI-powered reminders, progress tracking, and motivational messages encourage consistent use, fostering long-term behavioral changes for enhanced mental clarity and focus. Whether for beginners or experienced practitioners, MindSpace provides a comprehensive, personalized, and science-backed approach to mental wellness, blending technology, mindfulness, and behavioral science to create a transformative experience for stress reduction, emotional resilience, and personal growth.",
+    "size": 35,
+    "reviews": 11200,
+    "ratingAvg": 4.8,
+    "downloads": 28,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 7450 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/rK75FN20/10.png",
+    "title": "EduVerse",
+    "companyName": "Learnify Systems",
+    "id": 10,
+    "description": "EduVerse is an expansive e-learning and educational platform that utilizes AI, gamification, and interactive multimedia content to provide personalized learning experiences for students of all ages. The app offers thousands of courses, quizzes, tutorials, and certifications across a wide range of subjects including STEM, languages, arts, and vocational skills. EduVerse adapts content based on the learner’s proficiency, engagement patterns, and goals, providing AI-driven recommendations for improvement, learning paths, and targeted exercises. Interactive features include virtual classrooms, collaborative projects, discussion forums, and real-time feedback from instructors. EduVerse incorporates gamification elements such as badges, leaderboards, and challenges to increase motivation, engagement, and retention. Progress tracking dashboards give detailed insights into performance metrics, time spent, and knowledge acquisition. The platform supports multimedia content, including videos, simulations, interactive exercises, and AI-assisted assessments to enhance comprehension and practical application. Offline access ensures learning continuity even without internet, while secure cloud storage guarantees data protection. EduVerse also supports parental monitoring, teacher dashboards, and institutional management features for comprehensive educational administration. With its adaptive AI engine, immersive content, and robust analytics, EduVerse empowers learners to acquire knowledge effectively, track progress, and achieve educational goals in an engaging, structured, and personalized manner, preparing students for real-world challenges and continuous lifelong learning.",
+    "size": 70,
+    "reviews": 15600,
+    "ratingAvg": 4.5,
+    "downloads": 38,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 950 },
+      { "name": "3 star", "count": 2300 },
+      { "name": "4 star", "count": 3600 },
+      { "name": "5 star", "count": 7950 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Fqj8W2Df/11.webp",
+    "title": "ShopSmart",
+    "companyName": "DealMate Ltd",
+    "id": 11,
+    "description": "ShopSmart is a comprehensive e-commerce and shopping management app designed to make online shopping smarter, faster, and more personalized. The app integrates AI-powered product recommendations, price comparison tools, and real-time deal alerts to help users find the best value for money. ShopSmart allows users to create wishlists, track products across multiple platforms, and receive notifications when items go on sale or are back in stock. It provides detailed product information, reviews, and ratings, helping buyers make informed decisions. Advanced search filters and categories allow easy navigation, while AI-driven suggestions analyze user behavior to suggest similar or complementary products. ShopSmart also includes secure payment options, integrated digital wallets, and purchase tracking for convenience. Users can manage returns, warranties, and delivery schedules directly from the app. Social features let users share deals with friends, follow influencers, and join community discussions for tips and recommendations. The platform emphasizes security, privacy, and seamless user experience. Its AI analytics monitor trends, suggest shopping strategies, and provide personalized insights for smarter purchases. By combining intelligent recommendations, social engagement, and comprehensive shopping tools, ShopSmart empowers users to save time, reduce costs, and enjoy a seamless, personalized shopping experience every time.",
+    "size": 50,
+    "reviews": 8900,
+    "ratingAvg": 4.4,
+    "downloads": 22,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 4900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qFJmRjm6/12.jpg",
+    "title": "CryptoTrack",
+    "companyName": "BitWave Technologies",
+    "id": 12,
+    "description": "CryptoTrack is an advanced cryptocurrency portfolio, trading, and analytics app that provides real-time market data, price alerts, and AI-driven investment insights. Users can track multiple coins, monitor trends, and manage their portfolio securely with encrypted storage and multi-factor authentication. CryptoTrack includes comprehensive charting tools, historical data analysis, and predictive AI models to help users make informed trading decisions. Notifications for price changes, market news, and regulatory updates ensure users stay ahead of market movements. The app allows integration with exchanges for direct trading and offers portfolio performance tracking, including gains, losses, and risk assessment. CryptoTrack also features educational content, tutorials, and market simulations for both beginners and experienced investors. Social features enable users to follow market experts, discuss trends, and share insights in a safe environment. Offline access to portfolio summaries and secure cloud backups ensure data reliability. Its AI engine continuously analyzes market patterns, user behavior, and global crypto trends to provide actionable recommendations. CryptoTrack combines security, analytics, AI intelligence, and a user-friendly interface to empower crypto enthusiasts and investors to optimize their strategies, maximize profits, and manage risks in the volatile cryptocurrency ecosystem.",
+    "size": 48,
+    "reviews": 10200,
+    "ratingAvg": 4.3,
+    "downloads": 26,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 950 },
+      { "name": "3 star", "count": 1700 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 4850 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/v4yP1cG7/13.webp",
+    "title": "QuickScan",
+    "companyName": "DocuVision Ltd",
+    "id": 13,
+    "description": "QuickScan is a versatile document scanning and management app that uses AI-driven image processing and OCR (Optical Character Recognition) to convert physical documents into editable, searchable, and shareable digital formats. Users can scan receipts, contracts, notes, IDs, and books with precision and speed. QuickScan automatically enhances image quality, corrects perspective, and removes background noise for professional results. The app allows organizing scanned files into folders, tagging, and adding metadata for easy retrieval. Integration with cloud storage services like Google Drive, Dropbox, and OneDrive ensures secure backups and cross-device access. QuickScan includes PDF conversion, annotation, electronic signatures, and batch scanning features for efficiency. Its AI engine can extract text, detect table structures, and generate summaries of documents for quick reference. Users can protect sensitive files with password encryption and manage sharing permissions. The app also supports multi-language OCR, automated document categorization, and smart search to streamline workflow. QuickScan is ideal for professionals, students, and businesses that need a reliable, efficient, and intelligent solution for document digitization, management, and productivity enhancement, combining cutting-edge AI, intuitive design, and powerful features for complete document control.",
+    "size": 28,
+    "reviews": 7600,
+    "ratingAvg": 4.6,
+    "downloads": 18,
+    "ratings": [
+      { "name": "1 star", "count": 280 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 850 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 4270 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/TDFmQ3Gp/14.jpg",
+    "title": "Foodly",
+    "companyName": "TasteHub Co.",
+    "id": 14,
+    "description": "Foodly is a comprehensive food delivery and restaurant discovery app that uses AI-powered recommendations, real-time tracking, and personalized meal suggestions to provide users with a seamless culinary experience. The app allows users to browse menus, place orders, schedule deliveries, and rate meals from a wide variety of local restaurants and global chains. Foodly's AI engine analyzes user preferences, dietary restrictions, past orders, and trending dishes to suggest meals and restaurants tailored to individual tastes. Users can follow favorite restaurants, receive push notifications for new offers, track delivery status in real-time, and even pre-order meals for specific times. Foodly includes features for group orders, meal planning, loyalty programs, and secure in-app payments. The app integrates with mapping and routing systems for optimal delivery efficiency and estimated arrival times. With in-depth restaurant reviews, ratings, and photo galleries, users can make informed choices. Offline access allows browsing saved restaurants and menus, while cloud synchronization keeps user data consistent across devices. Foodly emphasizes quality, speed, personalization, and social engagement, offering a complete ecosystem for discovering, ordering, and enjoying food conveniently and intelligently.",
+    "size": 60,
+    "reviews": 21200,
+    "ratingAvg": 4.7,
+    "downloads": 58,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 2400 },
+      { "name": "4 star", "count": 5600 },
+      { "name": "5 star", "count": 11900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qMrKMmRB/15.png",
+    "title": "EcoTrack",
+    "companyName": "Greenify Labs",
+    "id": 15,
+    "description": "EcoTrack is a powerful sustainability and environmental tracking app that helps users monitor their carbon footprint, energy consumption, and ecological impact across daily activities. Leveraging AI and IoT integration, EcoTrack provides actionable insights, personalized recommendations, and long-term impact projections to help individuals and businesses reduce their environmental impact. Users can log travel, energy usage, dietary habits, and purchases, while the app calculates emissions, waste production, and resource consumption in real-time. EcoTrack features gamification to motivate sustainable behavior, including challenges, badges, and community leaderboards. The app provides educational content on environmental conservation, tips for eco-friendly living, and carbon offset opportunities. Integration with smart home devices, wearables, and IoT sensors allows automated data collection for accurate monitoring. Users can generate detailed reports, track trends, and set sustainability goals. EcoTrack also supports collaboration, enabling communities, schools, and companies to share progress, compare results, and work toward collective environmental objectives. Security, offline access, and cloud backup ensure reliability and privacy. By combining data analytics, AI recommendations, and behavioral insights, EcoTrack empowers users to make informed decisions, adopt greener habits, and contribute meaningfully to a sustainable future, offering a holistic solution for personal and collective environmental responsibility.",
+    "size": 36,
+    "reviews": 5200,
+    "ratingAvg": 4.5,
+    "downloads": 12,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 850 },
+      { "name": "4 star", "count": 1550 },
+      { "name": "5 star", "count": 2200 }
+    ]
+  },  
+  {
+    "image": "https://i.ibb.co.com/dw7nqDdP/16.png",
+    "title": "HomeSync",
+    "companyName": "SmartNest",
+    "id": 16,
+    "description": "HomeSync is an all-in-one smart home management app that allows users to control, monitor, and automate their home devices seamlessly from a single platform. Using AI-powered automation, HomeSync can optimize energy consumption, schedule device operation, and adapt to user routines for enhanced comfort and efficiency. The app integrates with lights, thermostats, security cameras, door locks, sensors, and other smart devices, providing real-time monitoring, notifications, and alerts. Users can create custom scenarios, group devices, and automate routines based on time, location, or sensor triggers. HomeSync provides insights on energy usage, device performance, and potential maintenance needs, helping homeowners save costs and prolong device lifespan. The app emphasizes security, data privacy, and encrypted communications, ensuring safe operation of connected devices. Offline control allows access to essential functions even without internet connectivity, while cloud synchronization keeps settings consistent across multiple devices. HomeSync also includes social features, allowing family members to manage devices collaboratively, share schedules, and receive notifications. Its AI engine continuously learns from user behavior to suggest optimized routines, energy-saving tips, and personalized automation options. By combining convenience, automation, security, and intelligent analytics, HomeSync empowers users to create a smart, efficient, and connected home environment that enhances comfort, safety, and sustainability.",
+    "size": 58,
+    "reviews": 13200,
+    "ratingAvg": 4.4,
+    "downloads": 30,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Qv8YvTwf/17.png",
+    "title": "StoryVerse",
+    "companyName": "Readify Studio",
+    "id": 17,
+    "description": "StoryVerse is an immersive storytelling and interactive reading platform designed to bring stories to life using AI, multimedia content, and gamified experiences. The app provides users access to a vast library of fiction, non-fiction, and educational content enhanced with illustrations, animations, sound effects, and interactive choices that influence story progression. StoryVerse leverages AI to adapt narratives to the reader’s preferences, generate personalized storylines, and even allow users to co-create or modify stories in real-time. Features include branching story paths, in-app challenges, quizzes, and collaborative writing options. Users can track reading progress, receive recommendations based on reading habits, and participate in global storytelling communities. StoryVerse includes offline access to favorite books, secure cloud storage, and personalized libraries. For educational purposes, the app integrates learning elements, vocabulary development, and comprehension exercises within stories. Social engagement features allow readers to share creations, discuss plot twists, and participate in story competitions. The AI engine continuously analyzes user interactions to provide adaptive storytelling, ensuring a deeply engaging and unique experience for each reader. StoryVerse combines technology, creativity, and interactive design to make reading, learning, and storytelling more engaging, dynamic, and personalized for users of all ages.",
+    "size": 62,
+    "reviews": 9800,
+    "ratingAvg": 4.6,
+    "downloads": 21,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 5300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/QWkq3hh/18.jpg",
+    "title": "WeatherPro+",
+    "companyName": "ClimateX Labs",
+    "id": 18,
+    "description": "WeatherPro+ is an advanced weather forecasting and climate monitoring app that provides hyper-local, real-time, and highly accurate weather information using AI-powered analytics, predictive modeling, and satellite data integration. Users can access live weather maps, radar imaging, precipitation tracking, severe weather alerts, and long-term climate predictions. WeatherPro+ leverages machine learning algorithms to analyze historical weather patterns, current conditions, and environmental data to provide personalized forecasts and suggestions for outdoor activities. The app includes features such as air quality monitoring, UV index alerts, and pollen count updates to help users protect health and plan daily routines. Customizable notifications ensure users receive timely warnings for storms, floods, extreme temperatures, or other weather-related emergencies. Integration with smart home devices and wearables allows automatic adjustments for thermostats, irrigation systems, and energy management based on weather conditions. WeatherPro+ also includes educational content, global weather trends, and climate insights to raise awareness of environmental changes. Users can track multiple locations, save favorite areas, and view historical data for analysis. Offline access and cloud synchronization ensure continuous access to vital information. The app combines AI intelligence, scientific accuracy, user-friendly design, and personalized recommendations to empower users to make informed decisions, stay safe, and plan efficiently in all weather conditions.",
+    "size": 33,
+    "reviews": 14400,
+    "ratingAvg": 4.7,
+    "downloads": 35,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 9200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/XZzxDtBr/19.png",
+    "title": "GameBoost",
+    "companyName": "PlayZone Ltd",
+    "id": 19,
+    "description": "GameBoost is a comprehensive gaming optimization and performance enhancement app designed for mobile and PC gamers. It uses AI-driven analysis to monitor device performance, optimize CPU and GPU usage, manage background processes, and reduce latency for smoother gameplay. GameBoost includes features for real-time FPS monitoring, network performance tracking, and temperature management to prevent overheating. The app provides personalized recommendations, automatic game mode activation, and resource allocation based on the game type, device capabilities, and user preferences. GameBoost also includes integrated tools for social gaming, live streaming, and community engagement, allowing users to share performance stats, achievements, and gameplay clips. Security and privacy features ensure safe operation while optimizing performance. The app supports automated updates, backup of game settings, and cloud synchronization to maintain consistency across devices. GameBoost’s AI engine continuously learns from usage patterns and game requirements to refine optimization strategies and deliver the best gaming experience possible. By combining intelligent resource management, performance monitoring, and user-friendly interfaces, GameBoost empowers gamers to achieve peak performance, minimize lag, and enjoy immersive gameplay across a wide range of devices.",
+    "size": 45,
+    "reviews": 17800,
+    "ratingAvg": 4.3,
+    "downloads": 42,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 1900 },
+      { "name": "4 star", "count": 4300 },
+      { "name": "5 star", "count": 7800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/VYW6gRhB/20.png",
+    "title": "TimeHero",
+    "companyName": "Boostify Apps",
+    "id": 20,
+    "description": "TimeHero is a powerful AI-driven productivity, time management, and personal optimization app that helps users organize tasks, track progress, and maximize efficiency. The app provides features for task scheduling, goal setting, project management, and habit tracking. TimeHero uses intelligent algorithms to analyze user behavior, deadlines, and priorities to suggest optimized schedules, reminders, and focus sessions. Users can create projects, break them into subtasks, assign deadlines, and monitor progress in real-time. The app integrates with calendars, email, and collaboration tools to synchronize tasks and ensure seamless workflow. TimeHero’s AI engine provides predictive analytics, productivity scoring, and personalized insights to improve time utilization, reduce procrastination, and enhance focus. Gamification elements, streak tracking, and rewards motivate consistent productivity habits. Users can generate reports, visualize achievements, and identify areas for improvement. Offline access, cloud synchronization, and secure data storage ensure reliable performance across devices. TimeHero combines advanced AI analytics, intuitive design, and comprehensive task management to empower users to take control of their time, enhance productivity, and achieve both personal and professional goals efficiently.",
+    "size": 27,
+    "reviews": 6200,
+    "ratingAvg": 4.8,
+    "downloads": 15,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 3700 }
+    ]
+  },  
+  {
+    "image": "https://i.ibb.co.com/gM6BvDPJ/21.png",
+    "title": "FitLife Pro",
+    "companyName": "HealthSync Labs",
+    "id": 21,
+    "description": "FitLife Pro is an all-encompassing health, fitness, and wellness app designed to help users achieve their physical and mental health goals using advanced AI analytics, personalized workout plans, nutrition tracking, and mindfulness exercises. The app provides access to customized workout routines based on fitness levels, preferences, and available equipment, ensuring a safe and effective approach to physical improvement. FitLife Pro integrates with wearables and IoT devices to track heart rate, sleep quality, calories burned, step count, and other health metrics in real-time. The AI engine analyzes these metrics to provide personalized recommendations for exercises, rest periods, and activity adjustments. Nutrition tracking allows users to log meals, calculate macronutrients, and receive AI-powered diet suggestions based on health goals such as weight loss, muscle gain, or improved energy levels. Mindfulness and meditation modules help users manage stress, improve focus, and enhance mental wellbeing. FitLife Pro also includes progress visualization, goal-setting, community challenges, social sharing, and achievement badges to keep users motivated. Offline support ensures that workouts and tracking can continue without an internet connection, while cloud synchronization keeps all user data safe and accessible across multiple devices. With security, privacy, and data-driven insights at its core, FitLife Pro combines cutting-edge technology, user-centered design, and holistic wellness guidance to empower users to lead healthier, happier, and more balanced lives.",
+    "size": 65,
+    "reviews": 15200,
+    "ratingAvg": 4.8,
+    "downloads": 55,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 9700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/HDmPZzYv/22.jpg",
+    "title": "TravelMate",
+    "companyName": "GlobeTrek Solutions",
+    "id": 22,
+    "description": "TravelMate is a comprehensive travel planning and discovery app designed to make every trip seamless, efficient, and personalized. Using AI-driven recommendations, TravelMate provides users with suggestions for flights, hotels, local experiences, and sightseeing based on individual preferences, travel history, and current trends. The app allows users to create detailed itineraries, manage bookings, set alerts for flight delays, price drops, and exclusive deals. TravelMate integrates maps, offline navigation, and augmented reality features to guide travelers through unfamiliar locations efficiently. Users can discover local attractions, restaurants, cultural events, and hidden gems using AI-powered exploration tools. Social features allow sharing travel plans, recommendations, and experiences with friends or communities. The app also supports collaboration for group trips, budgeting tools, currency conversion, and real-time language translation. Safety features provide emergency contacts, local advisories, and travel alerts. TravelMate's AI engine continuously learns from user feedback, travel patterns, and global trends to enhance future recommendations. Offline access, secure cloud backups, and synchronization ensure uninterrupted access to itineraries. By combining advanced AI, social engagement, interactive tools, and practical features, TravelMate empowers users to plan smarter, explore confidently, and enjoy every journey to the fullest.",
+    "size": 70,
+    "reviews": 11800,
+    "ratingAvg": 4.7,
+    "downloads": 47,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3800 },
+      { "name": "5 star", "count": 5800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/gFFy8ysf/23.webp",
+    "title": "MindCalm",
+    "companyName": "NeuroWell Labs",
+    "id": 23,
+    "description": "MindCalm is an advanced mental health, meditation, and mindfulness app designed to help users manage stress, improve focus, and enhance emotional wellbeing. Using AI-driven personalization, MindCalm tailors meditation sessions, breathing exercises, guided visualizations, and relaxation techniques based on the user's mood, stress levels, and personal goals. The app tracks sleep patterns, heart rate variability, and daily mood journals to provide insights and suggestions for mental health improvement. MindCalm also offers cognitive behavioral therapy (CBT) exercises, journaling prompts, and mood-enhancing audio tracks. Social and community features allow users to participate in group meditations, challenges, and forums to share experiences and gain support. Offline access ensures continuous meditation and journaling without internet connectivity, while cloud synchronization preserves progress and preferences across devices. The app provides detailed progress analytics, achievements, and reminders to cultivate long-term mindfulness habits. MindCalm emphasizes privacy, security, and evidence-based practices to create a safe environment for mental wellness. By combining AI personalization, mental health strategies, guided meditation, and tracking tools, MindCalm empowers users to reduce stress, boost resilience, and achieve lasting emotional balance in their daily lives.",
+    "size": 50,
+    "reviews": 10500,
+    "ratingAvg": 4.8,
+    "downloads": 39,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 3600 },
+      { "name": "5 star", "count": 5500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/gLrjMSdy/24.jpg",
+    "title": "EduSmart",
+    "companyName": "LearnSphere",
+    "id": 24,
+    "description": "EduSmart is a next-generation AI-powered learning platform designed to provide personalized education for students, professionals, and lifelong learners. The app offers interactive lessons, quizzes, tutorials, and multimedia content across multiple subjects, combining adaptive learning technology with performance analytics. EduSmart continuously tracks learning progress, identifies knowledge gaps, and generates customized study plans to optimize learning efficiency. It also integrates collaborative tools, discussion forums, and peer-to-peer mentorship to enhance engagement and comprehension. AI tutors provide real-time guidance, instant feedback, and tailored explanations to support learners at every level. The app includes gamified elements, achievements, and reward systems to maintain motivation and track milestones. Offline access ensures that educational content is available anytime, anywhere, while cloud synchronization keeps progress secure and consistent across devices. EduSmart emphasizes inclusivity, accessibility, and evidence-based teaching strategies to deliver an enriching learning experience. It also incorporates career guidance, skill assessments, and certification modules for professional development. By combining AI intelligence, interactive learning, adaptive feedback, and comprehensive analytics, EduSmart empowers users to learn more effectively, master new skills, and achieve educational goals efficiently.",
+    "size": 68,
+    "reviews": 11200,
+    "ratingAvg": 4.7,
+    "downloads": 44,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 5450 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/hFq6n1JT/25.webp",
+    "title": "ShopEase",
+    "companyName": "RetailWave",
+    "id": 25,
+    "description": "ShopEase is an innovative AI-driven retail and e-commerce platform designed to enhance the online shopping experience by providing personalized recommendations, price alerts, and seamless checkout options. The app analyzes user behavior, purchase history, and browsing patterns to offer relevant product suggestions, deals, and discounts. ShopEase allows users to create and manage wishlists, track multiple items across platforms, and receive notifications when items are on sale or restocked. Integration with secure payment gateways, digital wallets, and loyalty programs ensures smooth transactions and added value for users. ShopEase includes social features for sharing deals, following influencers, and participating in community discussions. Advanced search filters, categories, and AI-powered product discovery make it easy for users to find exactly what they want. The app also provides detailed product descriptions, reviews, and comparison tools to facilitate informed buying decisions. Cloud synchronization ensures all user data and preferences are accessible across devices. ShopEase combines AI intelligence, convenience, social engagement, and analytics to deliver a tailored, efficient, and enjoyable shopping experience, helping users save time, money, and effort while making smarter purchases in a dynamic e-commerce environment.",
+    "size": 60,
+    "reviews": 9500,
+    "ratingAvg": 4.6,
+    "downloads": 40,
+    "ratings": [
+      { "name": "1 star", "count": 280 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 850 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 4750 }
+    ]
+  }
+]
+
+
+
+
+
+
