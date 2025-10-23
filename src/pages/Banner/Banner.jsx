@@ -7,21 +7,21 @@ const Banner = () => {
       <div className="bg-[#f5f4f4]">
         <div className="w-11/12 mx-auto pt-8">
           <div>
-            <h2 className="text-4xl md:text-5xl lg:text-7xl text-center font-bold p-4">
+            <h2 className="text-4xl md:text-5xl lg:text-7xl text-center font-bold p-4 text-black">
               We Build <br />
               <span className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">
-                Productive
+                Productive 
               </span>
-              Apps
+              <span className='pl-2 md:pl-6'>Apps</span> 
             </h2>
-            <p className="text-center text-sm md:text-md text-gray-500">
+            <p className="text-center text-xl md:text-md text-2xl text-gray-500">
               At HERO.IO , we craft innovative apps designed to make everyday
               life simpler, smarter, and more exciting. <br /> Our goal is to
               turn your ideas into digital experiences that truly make an
               impact.
             </p>
               <div className="flex flex-col md:flex-row justify-center items-center gap-4 mt-4 md:py-5 lg:py-8">
-               <a className="flex justify-center items-center hover:text-white  hover:bg-[#9F62F2] rounded-xl p-2 border border-orange-300"
+               <a className="flex justify-center items-center text-amber-950 hover:text-white  hover:bg-[#9F62F2] rounded-xl p-2 border border-orange-300"
                href="https://play.google.com/store/apps"
               >
             <img
@@ -33,7 +33,7 @@ const Banner = () => {
              </a>
 
             <a
-               className="flex justify-center items-center rounded-xl p-2 hover:text-white hover:bg-[#9F62F2] border border-orange-300"
+               className="flex justify-center items-center rounded-xl p-2 text-amber-950 hover:text-white hover:bg-[#9F62F2] border border-orange-300"
              href="https://www.apple.com/app-store/"
             >
             <img

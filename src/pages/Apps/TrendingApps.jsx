@@ -7,7 +7,6 @@ import { PropagateLoader } from "react-spinners";
 
 const TrendingApps = () => {
   const { Apps, loading, error } = useLoadApps();
-  // console.log(Apps);
   const data = Apps.slice(0, 8);
 
   return (

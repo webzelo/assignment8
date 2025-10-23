@@ -1,5 +1,5 @@
 import { Link } from "react-router";
-import imge from "../../assets/App-Error.png";
+import imge from "../../assets/error-404.png";
 
 const AppError = () => {
   return (

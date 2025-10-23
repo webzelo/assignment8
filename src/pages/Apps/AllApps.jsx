@@ -23,14 +23,14 @@ const AllApps = () => {
   return (
     <div className="bg-[#f5f4f4] min-h-screen">
       <div className="w-11/12 mx-auto py-8">
-        <h2 className="text-4xl font-bold text-center p-4">
+        <h2 className="text-4xl font-bold text-center p-4 text-black">
           Our All Applications
         </h2>
         <p className="text-gray-400 text-center pb-6">
           Explore all apps on the market developed by us. We code for millions.
         </p>
         <div className="flex justify-center md:justify-between items-center flex-wrap gap-4 mb-6">
-          <h2 className="font-bold text-xl">
+          <h2 className="font-bold text-xl text-black">
             Apps Found : ({searchApp.length})
           </h2>
           <input
@@ -38,7 +38,7 @@ const AllApps = () => {
             placeholder="Search"
             value={search}
             onChange={(e) => setSearch(e.target.value)}
-            className="border border-gray-300 rounded-lg px-4 py-2 w-60 focus:outline-none focus:ring-2 focus:ring-purple-400 input-control w-full max-w-xs"
+            className="border border-gray-300 rounded-lg px-4 py-2 w-60 focus:outline-none focus:ring-2 focus:ring-purple-400 input-control w-full max-w-xs text-black"
           />
         </div>
         {loading ? (

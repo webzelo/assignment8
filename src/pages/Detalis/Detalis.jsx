@@ -59,7 +59,7 @@ const Detalis = () => {
             alt="image"
           />
           <div className="px-5 md:col-span-2">
-            <h2 className="text-4xl font-bold p-4">SmPlan: {title}</h2>
+            <h2 className="text-gray-800 text-4xl font-bold p-4">SmPlan: {title}</h2>
             <p className="text-2xl text-gray-500 p-4">
               Developed by:{" "}
               <span className="text-[#632EE3] ">{companyName}</span>{" "}
@@ -67,18 +67,18 @@ const Detalis = () => {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-10 lg:gap-15 justify-center md:justify-around  items-center p-4">
               <div className="grid grid-cols-3 md:grid-cols-1 justify-center">
                 <img src={imgD} alt="" />
-                <p className="text-xl p-2 hidden md:block">Downloads</p>
-                <span className="text-5xl font-bold">{downloads}M </span>
+                <p className="text-gray-800 text-xl p-2 md:block ">Downloads</p>
+                <span className="text-black text-5xl font-bold">{downloads}M </span>
               </div>
               <div className="grid grid-cols-3 md:grid-cols-1  justify-center">
                 <img src={imgRa} alt="" />
-                <p className="text-xl p-2 hidden md:bloc">Average Ratings</p>
-                <span className="text-5xl font-bold">{ratingAvg} </span>
+                <p className="text-gray-800 text-xl p-2  md:block">Average Ratings</p>
+                <span className="text-black text-5xl font-bold">{ratingAvg} </span>
               </div>
               <div className="grid grid-cols-3 md:grid-cols-1  justify-center">
                 <img src={imgRe} alt="" />
-                <p className="text-xl p-2 hidden md:bloc">Total Reviews</p>
-                <span className="text-5xl font-bold">{reviews}K </span>
+                <p className="text-gray-800 text-xl p-2  md:block">Total Reviews</p>
+                <span className="text-black text-5xl font-bold">{reviews}K </span>
               </div>
             </div>
             <button
@@ -95,10 +95,10 @@ const Detalis = () => {
           </div>
         </div>
         <div>
-          <h2 className="text-2xl font-semibold p-6">Ratings</h2>
+          <h2 className="text-black text-2xl font-semibold p-6">Ratings</h2>
           <Chart ratings={ratings}></Chart>
           <div className="pb-10">
-            <h2 className="text-2xl font-semibold p-6">Description</h2>
+            <h2 className="text-black text-2xl font-semibold p-6">Description</h2>
             <p className="p-4  text-gray-500">{description}</p>
           </div>
         </div>

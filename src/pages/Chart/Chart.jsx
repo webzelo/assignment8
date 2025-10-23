@@ -4,7 +4,7 @@ const Chart = ({ ratings }) => {
   const reverseData = [...ratings].reverse();
 
   return (
-    <div className="w-full h-70 md:h-110 lg:h-150 bg-[#d3b07c21] rounded-2xl border p-2 md:p-4 mb-4 ">
+    <div className="w-full h-70 md:h-110 lg:h-150 bg-[#e7181821] rounded-xl border p-2 md:p-4 mb-4 ">
       <ResponsiveContainer width="100%" height="100%">
         <BarChart data={reverseData} layout="vertical">
           <XAxis type="number" axisLine={false} tickLine={false} />
@@ -15,7 +15,7 @@ const Chart = ({ ratings }) => {
             tickLine={false}
           />
           <Tooltip />
-          <Bar dataKey="count" fill="green" barSize={40} />
+          <Bar dataKey="count" fill="orange" barSize={40} />
         </BarChart>
       </ResponsiveContainer>
     </div>

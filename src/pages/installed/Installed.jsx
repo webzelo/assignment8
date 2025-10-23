@@ -28,15 +28,7 @@ const Installed = () => {
       return Installed;
     }
   })();
-  // const handelRemove = (id) => {
-  //   const localList = JSON.parse(localStorage.getItem("Installed")) || [];
-  //   const updateList = localList.filter((p) => p.id !== id);
-  //   localStorage.setItem("Installed", JSON.stringify(updateList));
-  //   setInstalled(updateList);
-  //   toast("Uninstall successfully ❎");
-  // };
-
-  //
+ 
   const handelRemove = (id) => {
     setSelectedId(id);
     setShowModal(true);
@@ -56,14 +48,14 @@ const Installed = () => {
     <div className="bg-[#f5f4f4]">
       <div className="w-11/12 mx-auto">
         <div className="grid items-center p-4 w-full">
-          <h2 className="text-3xl font-bold text-center">
+          <h2 className="text-black text-3xl font-bold text-center">
             Your Installed Apps
           </h2>
           <p className="text-gray-500 text-center">
             Explore All Trending Apps on the Market developed by us
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 mt-10 w-full gap-4 md:gap-0">
-            <h2 className="font-bold text-xl text-center md:text-left">
+            <h2 className="text-black font-bold text-xl text-center md:text-left">
               ({Installed.length}) Apps Found
             </h2>
             <label className="form-control w-full max-w-xs justify-self-end">
@@ -83,7 +75,7 @@ const Installed = () => {
         {sortedItem.length !== 0 ? (
           sortedItem.map((id) => (
             <div className="grid gap-5" key={id}>
-              <div className="flex justify-between items-center bg-[#dd972d21] rounded-xl gap-4 md:m-4 ">
+              <div className="flex justify-between items-center bg-[#ffffff] rounded-xl gap-4 md:m-4 ">
                 <div className="flex md:p-4 ">
                   <img
                     className="h-20 md:h-35 lg:h-50 h-20 md:h-35 lg:w-50 rounded-xl object-cover"
@@ -94,26 +86,26 @@ const Installed = () => {
                     {id.title}
                   </div>
                   <div className="px-5 hidden md:block">
-                    <h2 className="text-4xl font-bold p-4">
+                    <h2 className="text-black text-4xl font-bold p-4">
                       SmPlan: {id.title}
                     </h2>
 
                     <div className="flex gap-6 md:gap-10 lg:gap-15 justify-around items-center p-4">
                       <div className="flex gap-2 items-center">
                         <img src={imgD} alt="" />
-                        <span className="text-xl font-bold">
+                        <span className="text-black text-xl font-bold">
                           {id.downloads}M
                         </span>
                       </div>
                       <div className="flex gap-2 items-center">
                         <img src={imgRa} alt="" />
-                        <span className="text-xl font-bold">
+                        <span className="text-black text-xl font-bold">
                           {id.ratingAvg}{" "}
                         </span>
                       </div>
                       <div className="flex gap-2">
                         <img src={imgRe} alt="" />
-                        <span className="text-xl font-bold items-center">
+                        <span className="text-black text-xl font-bold items-center">
                           {id.reviews}K
                         </span>
                       </div>
@@ -123,7 +115,7 @@ const Installed = () => {
                 <div>
                   <button
                     onClick={() => handelRemove(id.id)}
-                    className="btn m-4 bg-red-500 text-white"
+                    className="btn m-4 bg-green-500 text-white"
                   >
                     Uninstall
                   </button>
@@ -144,7 +136,7 @@ const Installed = () => {
             <div className="flex justify-center gap-4">
               <button
                 onClick={confirmRemove}
-                className="bg-red-600 text-white px-5 py-2 rounded-lg font-semibold hover:bg-red-700 transition-all"
+                className="bg-green-600 text-white px-5 py-2 rounded-lg font-semibold hover:bg-red-700 transition-all"
               >
                 Yes
               </button>
