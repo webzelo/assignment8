@@ -41,7 +41,7 @@ const TrendingApps = () => {
                         <Download />
                         {app.downloads}M
                       </span>
-                      <h2 className="text-[#FF8811] bg-[#FFF0E1] rounded-xl text-xl p-2 flex justify-center items-center font-semibold gap-2">
+                      <h2 className="text-[#FF8811] bg-[#d1c4b8] rounded-xl text-xl p-2 flex justify-center items-center font-semibold gap-2">
                         <FaStar />
                         {app.ratingAvg}
                       </h2>
